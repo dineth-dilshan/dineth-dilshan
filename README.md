@@ -15,6 +15,7 @@ Building practical apps, learning by doing, and exploring where software meets r
 ## 👨‍💻 About me
 
 - 📱 I build Android apps and explore desktop software development.
+- 🌐 I work on web development with HTML, PHP, and JavaScript.
 - 🌱 I'm growing my skills in software engineering and AI.
 - 🛠️ I enjoy turning ideas and field requirements into working tools.
 - 🤝 I'm open to learning with other developers and collaborating on useful projects.
@@ -30,10 +31,13 @@ Building practical apps, learning by doing, and exploring where software meets r
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Interested in:** mobile apps · desktop applications · AI · practical problem-solving
+**Interested in:** web development · mobile apps · desktop applications · AI · practical problem-solving
 
 ## 📊 GitHub activity
 
