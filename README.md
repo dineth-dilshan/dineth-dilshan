@@ -14,13 +14,21 @@ Building practical apps, learning by doing, and exploring where software meets r
 
 ## 👨‍💻 About me
 
-- 📱 I build Android apps and explore desktop software development.
+- 📱 I build Android apps and desktop software with C#.
+- 🔨 I'm currently working on two projects: a soil resistivity Android app and a POS system.
 - 🌐 I work on web development with HTML, PHP, and JavaScript.
 - 🌱 I'm growing my skills in software engineering and AI.
 - 🛠️ I enjoy turning ideas and field requirements into working tools.
 - 🤝 I'm open to learning with other developers and collaborating on useful projects.
 
-## 🚀 Featured projects
+## 🚀 Projects
+
+**Currently building**
+
+- [**Soil Resistivity Android**](https://github.com/dineth-dilshan/SoilResistivityAndroid) — an Android app for recording field measurements, viewing resistivity graphs, and exporting reports.
+- **POS system** — a C# desktop application for managing sales, products, stock, and customers.
+
+### Other project
 
 | Project | What it does |
 | --- | --- |
@@ -31,6 +39,7 @@ Building practical apps, learning by doing, and exploring where software meets r
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
