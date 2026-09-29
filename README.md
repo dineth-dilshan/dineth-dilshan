@@ -32,7 +32,6 @@ Building practical apps, learning by doing, and exploring where software meets r
 
 | Project | What it does |
 | --- | --- |
-| [**Soil Resistivity Android**](https://github.com/dineth-dilshan/SoilResistivityAndroid) | An offline Android app for entering Wenner field measurements, calculating apparent resistivity, viewing graphs, and exporting reports. |
 | [**GameHub**](https://github.com/dineth-dilshan/gamehub) | A project in my development portfolio. |
 
 ## 🧰 Tools & interests
