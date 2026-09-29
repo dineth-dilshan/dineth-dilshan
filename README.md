@@ -47,6 +47,10 @@ Building practical apps, learning by doing, and exploring where software meets r
 
 **Interested in:** web development · mobile apps · desktop applications · AI · practical problem-solving
 
+## 📬 Contact
+
+Reach me at **[ish2000inth@gmail.com](mailto:ish2000inth@gmail.com)**.
+
 ## 📊 GitHub activity
 
 <div align="center">
