@@ -8,9 +8,8 @@ Building practical apps, learning by doing, and exploring where software meets r
 
 [![GitHub profile](https://img.shields.io/badge/GitHub-dineth--dilshan-181717?style=for-the-badge&logo=github)](https://github.com/dineth-dilshan)
 
-                                                            CHECK OUT MY PORTFOLIO 👇
-                                                        https://dineth-dilshan.github.io
-                                     - [**👉 CHECK OUT MY PORTFOLIO 👈**](https://dineth-dilshan.github.io) —
+                                                         
+                                         [**👉 CHECK OUT MY PORTFOLIO 👈**](https://dineth-dilshan.github.io)
 
 </div>
 
