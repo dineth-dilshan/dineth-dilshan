@@ -10,7 +10,11 @@ Building practical apps, learning by doing, and exploring where software meets r
 
 
 </div>
-                                          [**👉 CHECK OUT MY PORTFOLIO 👈**](https://dineth-dilshan.github.io)
+<p align="center">
+  <a href="https://dineth-dilshan.github.io">
+    <strong>👉 CHECK OUT MY PORTFOLIO 👈</strong>
+  </a>
+</p>
 
 ---
 
