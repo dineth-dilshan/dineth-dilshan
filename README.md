@@ -10,7 +10,7 @@ Building practical apps, learning by doing, and exploring where software meets r
 
 
 </div>
-<p align="center">
+<p align="center";text-decoration: none;>
   <a href="https://dineth-dilshan.github.io">
     <strong>👉 CHECK OUT MY PORTFOLIO 👈</strong>
   </a>
